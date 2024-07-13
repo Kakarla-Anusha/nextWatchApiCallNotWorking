@@ -1,0 +1,22 @@
+.active-icon {
+  height: 30px;
+  width: 30px;
+  color: #ff0000;
+  margin-right: 10px;
+}
+inactive-icon {
+  height: 30px;
+  width: 30px;
+  color: #94a3b8;
+  margin-right: 10px;
+}
+.icon-heading {
+  font-family: roboto;
+  font-size: 16px;
+  color: #181818;
+  font-weight: 700;
+}
+.icon-heading-container {
+  display: flex;
+  align-items: center;
+}
